@@ -1,0 +1,7 @@
+{
+	"title" : "Book Foo",
+	"isbn" : "978543210",
+	"marked" : true,
+	"markedDate" : "2017-01-01"
+	
+	}
