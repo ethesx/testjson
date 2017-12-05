@@ -1,17 +1,21 @@
 {
-	"title" : "Book Foo",
-	"isbn" : "978543210",
-	"marked" : true,
-	"markedDate" : "2017-01-01",
-	"books" : [
-			{"title" : "Book Foo",
-			 "author" : "Fake author",
-			 "age" : "0-14",
-			 "publisher" : "Publisher",
-			 "isbn" : "978543210",
-			 "origin" : "Barnes and Noble"
+	"bookreport" : [
+		{
+			"title" : "Book Foo",
+			"isbn" : "978543210",
+			"marked" : true,
+			"markedDate" : "2017-01-01",
+			"books" : [
+					{"title" : "Book Foo",
+					 "author" : "Fake author",
+					 "age" : "0-14",
+					 "publisher" : "Publisher",
+					 "isbn" : "978543210",
+					 "origin" : "Barnes and Noble"
 
-			}
-		]
+					}
+				]
+		}
+	]
 
 }
