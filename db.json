@@ -2,7 +2,7 @@
 	"title" : "Book Foo",
 	"isbn" : "978543210",
 	"marked" : true,
-	"markedDate" : "2017-01-01"
+	"markedDate" : "2017-01-01",
 	"books" : [
 			{"title" : "Book Foo",
 			 "author" : "Fake author",
