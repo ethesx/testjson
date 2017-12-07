@@ -1,6 +1,7 @@
 {
 	"bookreport" : [
 		{
+			"id" : "978543210",
 			"title" : "Book Foo",
 			"isbn" : "978543210",
 			"marked" : true,
@@ -11,6 +12,40 @@
 					 "age" : "0-14",
 					 "publisher" : "Publisher",
 					 "isbn" : "978543210",
+					 "origin" : "Barnes and Noble"
+
+					}
+				]
+		},
+		{
+			"id" : "9780749707231",
+			"title" : "The Little Prince",
+			"isbn" : "9780749707231",
+			"marked" : true,
+			"markedDate" : "2016-01-01",
+			"books" : [
+					{"title" : "The Little Prince",
+					 "author" : "Antoine de Saint-Exupery",
+					 "age" : "0-17",
+					 "publisher" : "Houghton Mifflin Harcourt",
+					 "isbn" : "9780749707231",
+					 "origin" : "Barnes and Noble"
+
+					}
+				]
+		},
+		{
+			"id" : "9780385334204",
+			"title" : "Breakfast of Champions",
+			"isbn" : "9780385334204",
+			"marked" : false,
+			"markedDate" : "2015-01-01",
+			"books" : [
+					{"title" : "Breakfast of Champions",
+					 "author" : "Kurt Vonnegut",
+					 "age" : "",
+					 "publisher" : "Random House Publishing Group",
+					 "isbn" : "9780385334204",
 					 "origin" : "Barnes and Noble"
 
 					}
